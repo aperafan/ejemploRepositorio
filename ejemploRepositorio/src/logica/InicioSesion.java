@@ -10,6 +10,8 @@ package logica;
  * @author ARLEY PERAFAN
  */
 public class InicioSesion {
-   //System.out.println(" esta es el area de trabajo del proyecto ejemplo");
-    
+   public void mostrarMensaje(){
+   System.out.println(" esta es el area de trabajo del proyecto ejemplo");
+   }
+   
 }
